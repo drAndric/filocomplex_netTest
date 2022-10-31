@@ -9,14 +9,14 @@ es:
   contentDir: content/es
 
 # Uncomment the lines below to configure your website in a second language.
-en:
-  languageCode: en-us
-  contentDir: content/en
-  title: Filocomplex (in English!)
-  params:
-    description: Nothing to see here yet.
-  menu:
-    main:
+#en:
+ # languageCode: en-us
+  #contentDir: content/en
+  #title: Filocomplex (in English!)
+  #params:
+   # description: Nothing to see here yet.
+  #menu:
+   # main:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
