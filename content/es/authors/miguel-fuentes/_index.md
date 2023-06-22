@@ -28,7 +28,7 @@ organizations:
 education:
   courses:
     - course: PhD en Filosofía
-      institution: Stanford University
+      institution: 
       year: 
     - course: Phd en Física
 
