@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publicaciones
 
 # Listing view
 view: citation
@@ -9,3 +9,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+En construcción
