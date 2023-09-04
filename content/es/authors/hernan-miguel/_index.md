@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Investigadores Responsables
 ---
 Es Licenciado en Ciencias Físicas (Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires) y Doctor en Filosofía (Universidad Nacional de La Plata). Docente-Investigador Categoría I. Ha dirigido proyectos de investigación desde el año 2000 en adelante y ha sido miembro de proyectos de investigación del exterior. Continúa siendo Investigador externo para un proyecto del Instituto de Investigaciones Filosóficas de la UNAM, México; ha colaborado en la reforma curricular de la Escuela Nacional Preparatoria de la Universidad Nacional Autónoma de México (ENP-UNAM). Evaluador de proyectos de investigación para las agencias de investigación de Argentina, Chile, Paraguay y Uruguay, es miembro de comité editorial y evaluador para diferentes revistas nacionales e internacionales. Realiza sus investigaciones en las áreas de filosofía de la ciencia, modelización de sistemas complejos, enseñanza de las ciencias, enseñanza de filosofía de la ciencia. Es autor y coautor de varios libros y artículos en revistas especializadas. Es director de tesis de maestría y doctorado. Ha sido Profesor Invitado en Chile, en la Universidad de Concepción y en Uruguay en la Universidad de la República y el Centro Latinoamericano de Economía Humana (CLAEH); fue Presidente de la Asociación de Filosofía e Historia de la Ciencia del Cono Sur (AFHIC) entre en 2007-2008 y formó parte de la Comisión Directiva de la Sociedad Argentina de Análisis Filosófico (SADAF) entre 2006 y 2011.
 

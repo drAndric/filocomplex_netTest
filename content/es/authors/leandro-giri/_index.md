@@ -79,7 +79,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Investigadores Responsables
 ---
 
 Ingeniero Químico (UTN-FRBA), doctor en Epistemología e Historia de la Ciencia (UNTREF) y diplomado en Investigación, Transferencia y Desarrollo en la Universidad Pública (CLACSO). Es Investigador Asistente en CONICET, docente de grado y posgrado en UNTREF, UTN-FRLP y UNRN y docente invitado en la Universidad de la República del Uruguay. Como investigador ha publicado libros y artículos en revistas especializadas en diferentes temáticas de la filosofía de la ciencia, filosofía de la tecnología, estudios sociales de la ciencia y la tecnología y educación. También se desempeña como consultor en temáticas de medición de hidrocarburos líquidos.
