@@ -14,7 +14,6 @@ organizations:
   - url: 
   - name: CONICET
     url: ''
-  - name: Universidad de Ningún Lugar
   - name: SADAF
     url: 'http://www.sadaf.org.ar'
 
@@ -27,16 +26,28 @@ organizations:
 
 education:
   courses:
-    - course: PhD en Filosofía
-      institution: 
-      year: 
-    - course: Phd en Física
+    - course: Doctor en Física
+      institution: Instituto Balseiro, Argentina
+    - course: Doctor en Filosofía
+      institution: Universidad Nacional de La Plata, Argentina
+    - course: Master in International Affairs and Diplomacy
+      institution: The United Nations Institute for Training and Research (UNITAR) & Universidad Oberta de Catalunya
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: link 
+    icon_pack: fas
+    link: https://www.santafe.edu/people/profile/miguel-fuentes
+  - icon: link 
+    icon_pack: fas
+    link: https://sites.google.com/site/miguelfuentessite/
+
+    
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
