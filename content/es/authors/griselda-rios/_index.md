@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ada Czerwonogora
+title: Griselda Ríos
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,11 +9,11 @@ superuser: false
 role: Investigadora
 
 # Organizations/Affiliations
-organizations:
-  - name: Universidad CLAEH
-    url: 'https://universidad.claeh.edu.uy'
-  - name: SADAF
-    url: 'http://www.sadaf.org.ar'
+# organizations:
+#   - name: Universidad CLAEH
+#     url: 'https://universidad.claeh.edu.uy'
+#   - name: SADAF
+#     url: 'http://www.sadaf.org.ar'
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,14 +22,14 @@ organizations:
 #interests:
 #  - ¿Filosofía? (Ponele)
 
-education:
-  courses:
-    - course: Doctora en Ciencias Naturales     
-      institution: Universidad Nacional de La Plata, Argentina. 
-    - course: Magíster en Entornos Virtuales de Aprendizaje     
-      institution: Universidad de Panamá
-    - course: Licenciada en Ciencias Biológicas
-      institution: Universidad de la República, Uruguay.
+# education:
+#   courses:
+#     - course: Doctora en Ciencias Naturales     
+#       institution: Universidad Nacional de La Plata, Argentina. 
+#     - course: Magíster en Entornos Virtuales de Aprendizaje     
+#       institution: Universidad de Panamá
+#     - course: Licenciada en Ciencias Biológicas
+#       institution: Universidad de la República, Uruguay.
 
     
 
@@ -45,12 +45,12 @@ social:
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/GeorgeCushen
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Ada-Czerwonogora
-  - icon: academia
-    icon_pack: ai
-    link: https://claeh.academia.edu/AdaCzerwonogora
+  # - icon: researchgate
+  #   icon_pack: ai
+  #   link: https://www.researchgate.net/profile/Ada-Czerwonogora
+  # - icon: academia
+  #   icon_pack: ai
+  #   link: https://claeh.academia.edu/AdaCzerwonogora
 #   - icon: github
 #     icon_pack: fab
 #     link: https://github.com/gcushen
@@ -72,6 +72,4 @@ user_groups:
   - Investigadores
 ---
 
-Actualmente es Directora del Doctorado en Enseñanza de la Universidad CLAEH y se desempeña como docente y tutora de tesis de la Especialidad y Maestría en Didáctica de la Educación Superior.
-
-Es investigadora en temas de Educación Superior, con énfasis en tecnología educativa y comunidades de aprendizaje.
+Estudió Ciencias de la Comunicación en la Universidad de Buenos Aires, Profesorado en Filosofía en el Instituto Superior del Profesorado Joaquín V. González. Actualmente estudia Análisis de Sistemas en el Instituto Raúl Scalabrini Ortiz y es doctoranda en Filosofía por la Universidad Nacional de La Plata. Ha trabajado en educación en los niveles medio y superior. Su área de interés es la Filosofía de la Información, desarrollando investigación en el cruce de disciplinas como Semiótica, Complejidad, Filosofía del Lenguaje y Ciencias de la Computación.

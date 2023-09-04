@@ -13,6 +13,7 @@ organizations:
   - name: IIF-SADAF-CONICET
     url: ''
   - name: Universidad Nacional de Córdoba
+    url: 'https://www.unc.edu.ar'
   - name: SADAF
     url: 'http://www.sadaf.org.ar'
 
@@ -25,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: PhD Filosofía de las Ciencias
+    - course: Doctor en Filosofía de las Ciencias
       institution: Universidad Nacional de Córdoboa
       year: 2022
 
@@ -49,7 +50,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Investigadores
 ---
 
 Licenciado y doctor en filosofía por la Universidad Nacional de Córdoba. Becario postdoctoral del CONICET en el Instituto de investigaciones Filosóficas de la Sociedad de Análisis Filosófico (IIF-SADAF). Sus áreas de especialidad son la historia y la epistemología de los sistemas complejos y las múltiples facetas de la intersección entre la (filosofía de) la ciencia y la tecnología, especialmente las simulaciones computacionales y la inteligencia artificial. Cuando nadie lo mira, intenta resolver el problema de la irrazonable efectividad de la matemática en ciencias pensando acerca de patrones. Forma parte de la red Dedalus de estudios sobre la técnica, el grupo MODELAR de filosofía de las ciencias de la FFyH-UNC, el grupo de sistemas complejos e inteligencia artificial de SADAF y el NODO de Colaboración Científico-Industrial de IA de la UNC. También es editor de la revista _Epistemología e Historia de la Ciencia_ (UNC).
