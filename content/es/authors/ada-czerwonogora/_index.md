@@ -10,8 +10,8 @@ role: Investigador
 
 # Organizations/Affiliations
 organizations:
-  - name: CONICET
-    url: ''
+  - name: Universidad CLAEH
+    url: 'https://universidad.claeh.edu.uy'
   - name: SADAF
     url: 'http://www.sadaf.org.ar'
 
