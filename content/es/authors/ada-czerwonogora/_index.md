@@ -6,7 +6,7 @@ title: Ada Czerwonogora
 superuser: false
 
 # Role/position
-role: Investigador
+role: Investigadora
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigadoras
+  - Researchers
 ---
 
 Actualmente es Directora del Doctorado en Enseñanza de la Universidad CLAEH y se desempeña como docente y tutora de tesis de la Especialidad y Maestría en Didáctica de la Educación Superior.
