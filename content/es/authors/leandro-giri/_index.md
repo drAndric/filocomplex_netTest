@@ -36,10 +36,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  icon: researchgate
+  - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Leandro-Giri
-  icon: academia
+  - icon: academia
     icon_pack: ai
     link: https://untref-ar.academia.edu/LeandroGiri
   
