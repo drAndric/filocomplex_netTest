@@ -48,9 +48,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-7068-9750
-    - icon: linkedin
-     icon_pack: fab
-     link: https://ar.linkedin.com/in/leandro-giri-32612239  
+  - icon: linkedin
+    icon_pack: fab
+    link: https://ar.linkedin.com/in/leandro-giri-32612239  
 
 #   - icon: envelope
 #     icon_pack: fas
