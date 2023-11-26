@@ -1,15 +1,17 @@
 ---
 title: VII Seminario Bertrand Russell & V Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata
-date: 2023-11-25
+date: 2023-11-22
 ---
 
 VII Seminario Bertrand Russell
 IV Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata
+
 Encuentro binacional de equipos de investigación en Filosofía e Historia de la
 Ciencia
+
 Buenos Aires, 11-12 de diciembre / Montevideo, 14-15 de diciembre.
 
-![](col_russell.png)
+![image](col_russell.png)
 
 ### Lunes 11
 Sede Buenos Aires
