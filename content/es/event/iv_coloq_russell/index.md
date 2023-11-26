@@ -7,15 +7,14 @@ event_url: https://example.org
 location: SADAF
 
 
-summary: Encuentro binacional de equipos de investigación en
-Filosofía e Historia de la Ciencia
+summary: Encuentro binacional de equipos de investigación en Filosofía e Historia de la Ciencia
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2023-12-12T13:00:00Z'
+date_end: '2023-12-15T13:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
