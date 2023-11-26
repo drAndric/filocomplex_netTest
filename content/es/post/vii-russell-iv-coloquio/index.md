@@ -1,6 +1,7 @@
 ---
-title: VII Seminario Bertrand Russell & V Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata
+title: 'VII Seminario Bertrand Russell & V Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata'
 date: 2023-11-22
+draft: false
 ---
 
 VII Seminario Bertrand Russell
@@ -14,6 +15,7 @@ Buenos Aires, 11-12 de diciembre / Montevideo, 14-15 de diciembre.
 ![image](col_russell.png)
 
 ### Lunes 11
+
 Sede Buenos Aires
 Sociedad Argentina de Análisis Filosófico
 Bulnes 642 CABA
@@ -41,6 +43,7 @@ Ignacio Saraiva (Universidad de la República, Uruguay)
 Andrés Ilcic & Miguel Fuentes (SADAF, Argentina)
 
 ## Martes 12
+
 Sede Buenos Aires
 Sociedad Argentina de Análisis Filosófico
 Bulnes 642 CABA
