@@ -1,12 +1,14 @@
 ---
-title: 'VII Seminario Bertrand Russell & V Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata'
+title: 'VII Seminario Bertrand Russell & IV Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata'
 
 date: '2023-11-05T00:00:00+01:00'
 ---
 
 ![image](col_russell.png)
 
-# Encuentro binacional de equipos de investigación en Filosofía e Historia de la Ciencia
+## Encuentro binacional de equipos de investigación en Filosofía e Historia de la Ciencia
+
+## Cronograma
 
 ## Lunes 11
 
@@ -40,7 +42,7 @@ Bulnes 642 CABA
 #### Sede Buenos Aires
 #### Sociedad Argentina de Análisis Filosófico
 Bulnes 642 CABA
->
+
 > 10:00 - 10:45. *Aplicación a la IA y las propiedades emergentes*
 >
 > **Erick Rubio & Andrés Ilcic** (Universidad del Atlántico, Colombia -
@@ -87,9 +89,9 @@ San Salvador 1944
 ## Viernes 15
 
 #### Sede Montevideo
-### Facultad de Información y Comunicación
+#### Facultad de Información y Comunicación
 San Salvador 1944
->
+
 > 10:00 - 10:45. *Conciencia, atención y percepción*
 >
 > **Ignacio Cervieri** (Universidad de la República, Uruguay)
@@ -108,7 +110,7 @@ San Salvador 1944
 >
 
 **Coordinación**: Hernán Miguel, Leandro Giri y Mauricio Cheguhem.
->
+
 **Contacto:**
 
 * [coloquiofhc@fic.edu.uy](mailto:coloquiofhc@fic.edu.uy)
