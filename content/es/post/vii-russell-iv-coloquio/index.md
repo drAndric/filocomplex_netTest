@@ -1,6 +1,8 @@
 ---
 title: 'VII Seminario Bertrand Russell & V Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata'
+
 date: 2023-11-22
+
 draft: false
 ---
 
