@@ -10,10 +10,10 @@ date: '2023-11-05T00:00:00+01:00'
 
 ## Lunes 11
 
-> Sede Buenos Aires
-> Sociedad Argentina de Análisis Filosófico
-> Bulnes 642 CABA
->
+### Sede Buenos Aires
+Sociedad Argentina de Análisis Filosófico
+Bulnes 642 CABA
+
 > 9:30-10:00. Palabras de apertura.
 >
 > 10:00 - 10:45. *Medidas de complejidad y cambio de teorías*
@@ -25,111 +25,94 @@ date: '2023-11-05T00:00:00+01:00'
 >
 > **Ignacio Saraiva** (Universidad de la República, Uruguay)
 >
-> 12:00-12:45. *Explicaciones causales a partir de modelos. Modelo > dinámico para decisiones políticas*
+> 12:00-12:45. *Explicaciones causales a partir de modelos. Modelo dinámico para decisiones políticas*
 >
 > **Leandro Giri & Hernán Miguel** (Universidad Tres de Febrero,
 > Argentina - Universidad de Buenos Aires, Argentina)
 >
 > 13:00-15:00. Almuerzo.
 >
-> 15:00-15:45. *IA y Sistemas Complejos: contextos históricos en su > desarrollo* 
+> 15:00-15:45. *IA y Sistemas Complejos: contextos históricos en su desarrollo* 
 > **Andrés Ilcic & Miguel Fuentes** (SADAF, Argentina)
 
 ## Martes 12
 
-> Sede Buenos Aires
-> Sociedad Argentina de Análisis Filosófico
-> Bulnes 642 CABA
+#### Sede Buenos Aires
+#### Sociedad Argentina de Análisis Filosófico
+Bulnes 642 CABA
 >
-> 10:00 - 10:45. "*Aplicación a la IA y las propiedades emergentes*"
+> 10:00 - 10:45. *Aplicación a la IA y las propiedades emergentes*
 >
 > **Erick Rubio & Andrés Ilcic** (Universidad del Atlántico, Colombia -
 > SADAF, Argentina)
 >
-> 11:00 - 11:45. "*IA: otro desafío para la filosofía de la técnica*"
+> 11:00 - 11:45. *IA: otro desafío para la filosofía de la técnica*
 >
 > **Agustín Courtoisie** (Universidad de la República, Uruguay)
 >
-> 12:00 - 12:45. "*Ciencia y tecnología entendidas como un sistema
-> complejo.* Comunicación pública de la ciencia y la tecnología, y los
-> sujetos de la acción comunicativa"
+> 12:00 - 12:45. *Ciencia y tecnología entendidas como un sistema complejo. Comunicación pública de la ciencia y la tecnología, y los > sujetos de la acción comunicativa*
 
 **Marcelo Rodríguez & Leandro Giri**
 
 > 13:00-15:00. Almuerzo
 >
-> 15:00 - 15:45. "*Modelización y Teoría de Redes: difusión social del
-> significado*"
+> 15:00 - 15:45. *Modelización y Teoría de Redes: difusión social del significado*
 >
 > **Ada Czerwonogora & Miguel Fuentes** (CLAEH, Uruguay - SADAF,
 > Argentina)
 
 ## Jueves 14
 
-> Sede Montevideo
+####  Sede Montevideo
+#### Facultad de Información y Comunicación
+San Salvador 1944
 
-### Facultad de Información y Comunicación
-
-> San Salvador 1944
->
 > 9:30-10:00. Palabras de apertura.
 >
-> 10:00 - 10:45. "*Comunicación de la ciencia: ¿Por qué? ¿Para qué?
-> ¿Para quiénes?*"
->
+> 10:00 - 10:45. *Comunicación de la ciencia: ¿Por qué? ¿Para qué? ¿Para quiénes?*
 > **Jorge Rasner** (Universidad de la República, Uruguay)
 >
-> 11:00 - 11:45. "*Sistemas Complejos y Causación Internivel. Modelos de
-> aprendizaje* para IA"
->
+> 11:00 - 11:45. "*Sistemas Complejos y Causación Internivel. Modelos de aprendizaje para IA*
 > **Hernán Miguel y Miguel Fuentes** (SADAF, Argentina)
 >
-> 12:00 - 12:45. "*Fusión de lenguajes: IA en la investigación social*"
->
+> 12:00 - 12:45. *Fusión de lenguajes: IA en la investigación social*
 > **Soledad Caballero** (Universidad de la República, Uruguay)
 >
-> 16:00 - 16:45. "*El problema de la demarcación y su relación con la
-> comunicación* mediática"
->
+> 16:00 - 16:45. *El problema de la demarcación y su relación con la comunicación mediática*
 > **Alejandro Paiva** (Universidad de la República, Uruguay)
 >
-> 17:00 - 17:45. "*Metafísica de la ciencia en el Río de la Plata*"
->
-> **Bruno Borge** (Universidad de Buenos Aires, Argentina)
+> 17:00 - 17:45. *Metafísica de la ciencia en el Río de la Plata*
+>> **Bruno Borge** (Universidad de Buenos Aires, Argentina)
 
 ## Viernes 15
 
-> Sede Montevideo
-
+#### Sede Montevideo
 ### Facultad de Información y Comunicación
-
-> San Salvador 1944
+San Salvador 1944
 >
-> 10:00 - 10:45. "*Conciencia, atención y percepción*"
+> 10:00 - 10:45. *Conciencia, atención y percepción*
 >
 > **Ignacio Cervieri** (Universidad de la República, Uruguay)
 >
-> 11:00 - 11:45. "*Fundamentos de la Epistemocrítica: un encuentro entre
-> Literatura y* Ciencia"
+> 11:00 - 11:45. *Fundamentos de la Epistemocrítica: un encuentro entre Literatura y Ciencia*
 >
 > **Mauricio Cheguhem** (Universidad de la República, Uruguay)
 >
-> 12:00 - 12:45. "*La cultura visual de la medicina alternativa en el
-> Uruguay del* Novecientos"
+> 12:00 - 12:45. *La cultura visual de la medicina alternativa en el Uruguay del Novecientos*
 >
 > **Analía Lavín** (Universidad de la República, Uruguay)
 >
-> 16:00 - 16:45. "*Presentación de la serie audiovisual accesible
-> Epistemología* Abierta"
+> 16:00 - 16:45. *Presentación de la serie audiovisual accesible Epistemología Abierta*
 >
 > **Victoria Lavorerio** (Universidad de la República, Uruguay)
 >
-> **Coordinación**: Hernán Miguel, Leandro Giri y Mauricio Cheguhem.
+
+**Coordinación**: Hernán Miguel, Leandro Giri y Mauricio Cheguhem.
 >
-> **Contacto:**
-> [[coloquiofhc@fic.edu.uy]{.underline}](mailto:coloquiofhc@fic.edu.uy)
-> /
-> [[mauricio.cheguem@fic.edu.uy]{.underline}](mailto:mauricio.cheguem@fic.edu.uy)
+**Contacto:**
+*[coloquiofhc@fic.edu.uy](mailto:coloquiofhc@fic.edu.uy)
+
+*[mauricio.cheguem@fic.edu.uy](mailto:mauricio.cheguem@fic.edu.uy)
 
 # Organizan:
 

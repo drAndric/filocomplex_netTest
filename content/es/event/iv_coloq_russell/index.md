@@ -1,19 +1,18 @@
 ---
 title: VII Seminario Bertrand Russell & IV Coloquio de Filosofía e Historia de la Ciencia del Río de la Plata
 
-event: Wowchemy Conference
-event_url: https://example.org
+event_url: 'https://filo.complex.ar/post/vii-russell-iv-coloquio'
 
-location: SADAF
+location: SADAF, Buenos Aires. / Facultad de Comunicacióñ, UDELAR, Montevideo.
 
 summary: Encuentro binacional de equipos de investigación en Filosofía e Historia de la Ciencia
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+# abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 
-date: '2023-11-12T13:00:00Z'
-date_end: '2023-11-15T13:00:00Z'
+date: '2023-12-12T13:00:00Z'
+date_end: '2023-12-15T13:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
