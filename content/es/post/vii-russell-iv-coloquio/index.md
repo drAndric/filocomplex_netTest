@@ -10,8 +10,8 @@ date: '2023-11-05T00:00:00+01:00'
 
 ## Lunes 11
 
-### Sede Buenos Aires
-Sociedad Argentina de Análisis Filosófico
+#### Sede Buenos Aires
+#### Sociedad Argentina de Análisis Filosófico
 Bulnes 642 CABA
 
 > 9:30-10:00. Palabras de apertura.
@@ -51,9 +51,9 @@ Bulnes 642 CABA
 > **Agustín Courtoisie** (Universidad de la República, Uruguay)
 >
 > 12:00 - 12:45. *Ciencia y tecnología entendidas como un sistema complejo. Comunicación pública de la ciencia y la tecnología, y los > sujetos de la acción comunicativa*
-
-**Marcelo Rodríguez & Leandro Giri**
-
+>
+> **Marcelo Rodríguez & Leandro Giri**
+>
 > 13:00-15:00. Almuerzo
 >
 > 15:00 - 15:45. *Modelización y Teoría de Redes: difusión social del significado*
@@ -82,7 +82,7 @@ San Salvador 1944
 > **Alejandro Paiva** (Universidad de la República, Uruguay)
 >
 > 17:00 - 17:45. *Metafísica de la ciencia en el Río de la Plata*
->> **Bruno Borge** (Universidad de Buenos Aires, Argentina)
+> **Bruno Borge** (Universidad de Buenos Aires, Argentina)
 
 ## Viernes 15
 
@@ -110,9 +110,10 @@ San Salvador 1944
 **Coordinación**: Hernán Miguel, Leandro Giri y Mauricio Cheguhem.
 >
 **Contacto:**
-*[coloquiofhc@fic.edu.uy](mailto:coloquiofhc@fic.edu.uy)
 
-*[mauricio.cheguem@fic.edu.uy](mailto:mauricio.cheguem@fic.edu.uy)
+* [coloquiofhc@fic.edu.uy](mailto:coloquiofhc@fic.edu.uy)
+
+* [mauricio.cheguem@fic.edu.uy](mailto:mauricio.cheguem@fic.edu.uy)
 
 # Organizan:
 
