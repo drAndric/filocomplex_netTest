@@ -11,7 +11,7 @@ summary: Encuentro binacional de equipos de investigación en Filosofía e Histo
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 
-date: '2023-12-12T13:00:00Z'
+date: '2023-12-11T13:00:00Z'
 date_end: '2023-12-15T13:00:00Z'
 all_day: true
 
@@ -24,9 +24,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 url_code: ''
 url_pdf: ''

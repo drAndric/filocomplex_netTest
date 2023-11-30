@@ -54,13 +54,13 @@ Bulnes 642 CABA
 >
 > 12:00 - 12:45. *Ciencia y tecnología entendidas como un sistema complejo. Comunicación pública de la ciencia y la tecnología, y los > sujetos de la acción comunicativa*
 >
-> **Marcelo Rodríguez & Leandro Giri**
+> **Marcelo Rodríguez & Leandro Giri** (SADAF, Argentina)
 >
 > 13:00-15:00. Almuerzo
 >
 > 15:00 - 15:45. *Modelización y Teoría de Redes: difusión social del significado*
 >
-> **Ada Czerwonogora & Miguel Fuentes** (CLAEH, Uruguay - SADAF,
+> **Ada Czerwonogora & Miguel Fuentes** (UCLAEH, Uruguay - SADAF,
 > Argentina)
 
 ## Jueves 14
@@ -72,19 +72,24 @@ San Salvador 1944
 > 9:30-10:00. Palabras de apertura.
 >
 > 10:00 - 10:45. *Comunicación de la ciencia: ¿Por qué? ¿Para qué? ¿Para quiénes?*
+>
 > **Jorge Rasner** (Universidad de la República, Uruguay)
 >
-> 11:00 - 11:45. "*Sistemas Complejos y Causación Internivel. Modelos de aprendizaje para IA*
-> **Hernán Miguel y Miguel Fuentes** (SADAF, Argentina)
+> 11:00 - 11:45. *El problema de la demarcación y su relación con la comunicación mediática*
+> **Alejandro Paiva** (Universidad de la República, Uruguay)
+
 >
-> 12:00 - 12:45. *Fusión de lenguajes: IA en la investigación social*
+> 12:00 - 12:45. *Sistemas Complejos y Causación Internivel. Modelos de aprendizaje para IA* 
+> 
+> **Hernán Miguel y Miguel Fuentes** (SADAF, Argentina) 
+>
+> 13:00 - 16:00. Almuerzo
+>
+> 16:00 - 16:45.  *Fusión de lenguajes: IA en la investigación social*
 > **Soledad Caballero** (Universidad de la República, Uruguay)
 >
-> 16:00 - 16:45. *El problema de la demarcación y su relación con la comunicación mediática*
-> **Alejandro Paiva** (Universidad de la República, Uruguay)
->
-> 17:00 - 17:45. *Metafísica de la ciencia en el Río de la Plata*
-> **Bruno Borge** (Universidad de Buenos Aires, Argentina)
+
+
 
 ## Viernes 15
 
@@ -104,10 +109,16 @@ San Salvador 1944
 >
 > **Analía Lavín** (Universidad de la República, Uruguay)
 >
-> 16:00 - 16:45. *Presentación de la serie audiovisual accesible Epistemología Abierta*
+> 13:00 - 16:00. Almuerzo
 >
-> **Victoria Lavorerio** (Universidad de la República, Uruguay)
+> 16:00 - 16:45. *Metafísica de la ciencia en el Río de la Plata*
 >
+> **Bruno Borge** (Universidad de Buenos Aires, Argentina)
+> 
+> *Presentación de la serie audiovisual accesible Epistemología Abierta*
+>
+> **Victoria Lavorerio, Ignacio Bruné, Santiago Ferro, Magela Rodríguez**
+
 
 **Coordinación**: Hernán Miguel, Leandro Giri y Mauricio Cheguhem.
 
