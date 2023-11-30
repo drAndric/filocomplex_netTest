@@ -52,13 +52,13 @@ Bulnes 642 CABA
 >
 > **Agustín Courtoisie** (Universidad de la República, Uruguay)
 >
-> 12:00 - 12:45. *Ciencia y tecnología entendidas como un sistema complejo. Comunicación pública de la ciencia y la tecnología, y los > sujetos de la acción comunicativa*
+> 12:00 - 12:45. *Ciencia y tecnología entendidas como un sistema complejo. Comunicación pública de la ciencia y la tecnología, y los  sujetos de la acción comunicativa*
 >
 > **Marcelo Rodríguez & Leandro Giri** (SADAF, Argentina)
 >
 > 13:00-15:00. Almuerzo
 >
-> 15:00 - 15:45. *Modelización y Teoría de Redes: difusión social del significado*
+> 15:00 - 15:45. *Modelización y Teoría de Redes: Aplicación a Educación*
 >
 > **Ada Czerwonogora & Miguel Fuentes** (UCLAEH, Uruguay - SADAF,
 > Argentina)
