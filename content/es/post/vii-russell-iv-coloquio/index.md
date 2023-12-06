@@ -8,6 +8,8 @@ date: '2023-11-05T00:00:00+01:00'
 
 ## Encuentro binacional de equipos de investigación en Filosofía e Historia de la Ciencia
 
+Usando [este formulario](https://forms.gle/sK7dp2gV9f9AHpGa8) pueden anotarse para recibir los links correspondientes a las salas de Zoom para participar del evento de manera remota.
+
 ## Cronograma
 
 ## Lunes 11
