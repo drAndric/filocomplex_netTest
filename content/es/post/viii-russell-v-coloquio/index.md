@@ -61,13 +61,13 @@ estudio de las narrativas audiovisuales digitales”
 
 |   |   |
 |---|---|---|
-10:00 - 11:00 | Mauricio Cheguhem | Literatura y ciencia: de la anticipación a la teoría adaptativa en la ficción climática rioplatense
-11:00 - 12:00 | Andrés Ilcic | Gobernanza e inteligencia artificial: Una mirada desde los sistemas complejos
-12:00 - 13:00 | Alejandro Paiva | Notas sobre el problema de la demarcación
-13:00 - 15:00 | | Almuerzo |
-15:00 - 16:00 | Marcelo Rodríguez | Racionalidades científicas y racionalidades de la comunicación: posverdad y redes sociales
-16:00 - 17:00 | Ignacio Saraiva | Reconstrucción paradigmática y teórica en ciencia de la información: el caso de la recuperación de la información
-17:00 - 18:00 | Griselda Ríos | Transmisión social del significado
+| 10:00 - 11:00 | Mauricio Cheguhem | Literatura y ciencia: de la anticipación a la teoría adaptativa en la ficción climática rioplatense
+| 11:00 - 12:00 | Andrés Ilcic | Gobernanza e inteligencia artificial: Una mirada desde los sistemas complejos
+| 12:00 - 13:00 | Alejandro Paiva | Notas sobre el problema de la demarcación
+| 13:00 - 15:00 | | Almuerzo |
+| 15:00 - 16:00 | Marcelo Rodríguez | Racionalidades científicas y racionalidades de la comunicación: posverdad y redes sociales
+| 16:00 - 17:00 | Ignacio Saraiva | Reconstrucción paradigmática y teórica en ciencia de la información: el caso de la recuperación de la información
+| 17:00 - 18:00 | Griselda Ríos | Transmisión social del significado
 
 ### Martes 10
 
