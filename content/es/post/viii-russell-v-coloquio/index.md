@@ -4,7 +4,7 @@ title: 'VIII Seminario Bertrand Russell & V Coloquio de Filosofía e Historia de
 date: '2024-11-30T00:00:00+01:00'
 ---
 
-
+![image](2.png)
 
 ## Encuentro binacional de equipos de investigación en Filosofía e Historia de la Ciencia
 
