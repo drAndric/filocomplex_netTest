@@ -28,7 +28,7 @@ AV. Cachimba del Rey entre Bv. Artigas y Av. Aparicio Saravia
 
 
 |  |  |  |
-| --- | --- | --- |
+|------|-----|-------------- |
 | 10:00 - 10:30 | Ignacio Saraiva (FIC, UDELAR) | Palabras de apertura y recepción |
 | 10:30 - 11:00 | Jorge Rasner (FIC, UDELAR), Agustín Courtoisie (FIC, UDELAR) | Mesa redonda I: “Presentación del 1er cuaderno del Gescyt” |
 | 11:00 - 12:30 | Javier Echeverría (Universidad Politécnica de Madrid, España), Lola S. Almendros (CSIC, España), Jorge Rasner (FIC, UDELAR), Ignacio Cervieri (FIC, UDELAR) | Mesa redonda II (híbrida): “Desafíos actuales de la Inteligencia Artificial” |
@@ -46,8 +46,8 @@ AV. Cachimba del Rey entre Bv. Artigas y Av. Aparicio Saravia
 > 
 ### Lunes 9/12
 
-|   |   | |
-|---|---|---|
+|   |   |   |
+|------|-----|-------------- |
 | 10:00 - 11:00 | Mauricio Cheguhem | Literatura y ciencia: de la anticipación a la teoría adaptativa en la ficción climática rioplatense |
 | 11:00 - 12:00 | Andrés Ilcic | Gobernanza e inteligencia artificial: Una mirada desde los sistemas complejos |
 | 12:00 - 13:00 | Alejandro Paiva | Notas sobre el problema de la demarcación |
@@ -58,8 +58,8 @@ AV. Cachimba del Rey entre Bv. Artigas y Av. Aparicio Saravia
 
 ### Martes 10/12
 
-|  |  | |
-|------|---------|-------|
+|  |  |   |
+|------|-----|-------------- |
 | 10:00 - 11:00 | Virginia y Gregory Chaitin | La inexistencia de método único en las ciencias y en las matemáticas |
 | 11:00 - 12:00 | Miguel Fuentes | TBA |
 | 12:00 - 13:00 | Ada Czerwonogora | Educación y Redes II |
